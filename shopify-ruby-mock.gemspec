@@ -13,8 +13,6 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://github.com/shotay79/shopify-ruby-mock"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.4.0")
 
-  spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
-
   spec.metadata["homepage_uri"] = "https://github.com/shotay79/shopify-ruby-mock"
   spec.metadata["source_code_uri"] = "https://github.com/shotay79/shopify-ruby-mock"
   spec.metadata["changelog_uri"] = "https://github.com/shotay79/shopify-ruby-mock/blob/master/CHANGELOG.md"
