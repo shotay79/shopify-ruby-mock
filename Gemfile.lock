@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    shopify_mock (0.1.0)
+    shopify-ruby-mock (0.1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -34,7 +34,7 @@ PLATFORMS
 DEPENDENCIES
   rake (~> 13.0)
   rubocop (~> 1.7)
-  shopify_mock!
+  shopify-ruby-mock!
 
 BUNDLED WITH
    2.2.8

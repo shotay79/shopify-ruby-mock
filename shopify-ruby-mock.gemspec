@@ -3,7 +3,7 @@
 require_relative "lib/shopify_mock/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "shopify_mock"
+  spec.name          = "shopify-ruby-mock"
   spec.version       = ShopifyMock::VERSION
   spec.authors       = ["shotay79"]
   spec.email         = ["sho479@gmail.com"]
